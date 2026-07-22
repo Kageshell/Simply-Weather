@@ -1,2 +1,2 @@
 # Simply-Weather
-Python App that gives you basic weather information using tkinter library
+Python/Typescript app that gives you basic weather info
