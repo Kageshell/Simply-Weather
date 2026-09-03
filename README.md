@@ -1,2 +1,2 @@
 # Simply-Weather
-Python/Typescript app that gives you basic weather info
+Python app that gives you basic weather info
